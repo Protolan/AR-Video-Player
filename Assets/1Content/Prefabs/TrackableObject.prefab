@@ -306,8 +306,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 5163260684330770464}
-        m_TargetAssemblyTypeName: UnityEngine.MonoBehaviour, UnityEngine
-        m_MethodName: CancelInvoke
+        m_TargetAssemblyTypeName: _1Content.Scripts.DisappearAnimation, Assembly-CSharp
+        m_MethodName: Play
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -353,9 +353,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a2f9ce06e40466a96e862c22519e81b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  OnCompleted:
-    m_PersistentCalls:
-      m_Calls: []
   easing: 1
   duration: 0.5
 --- !u!114 &7623128073844685354
